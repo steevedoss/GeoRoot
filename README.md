@@ -6,7 +6,7 @@ GeoRoot is a Java application designed to calculate the distances between coordi
 
 &nbsp;
 
-Much of social science research relies on qGIS and STATA plugins for georouting calculations. However, these plugins often depend on extensive third-party API usage. Alternatives such as ArcGIS addons are often closed, non-transparent about data processing, and paid. In contrast, GeoRoot offers a solution that meets sensitive data requirements by operating entirely offline. This makes GeoRoot suitable for projects involving protected datasets that cannot be shared. Additionally, with Osmium-tool time-filtering, GeoRoot is capable of analyzing time-series historical data. More information on time-series routing [below](https://github.com/steevedoss/GeoRoot/blob/main/README.md#optimizations).
+Much of social science research relies on qGIS and STATA plugins for georouting calculations. However, these plugins often depend on extensive third-party API usage. Alternatives such as ArcGIS addons are often closed, non-transparent about data processing, and paid. In contrast, GeoRoot offers a free solution that meets sensitive data requirements by operating entirely offline. This makes GeoRoot suitable for projects involving protected datasets that cannot be shared. Additionally, with Osmium-tool time-filtering, GeoRoot is capable of analyzing time-series historical data. More information on time-series routing [below](https://github.com/steevedoss/GeoRoot/blob/main/README.md#optimizations).
 
 
 
