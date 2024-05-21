@@ -2,7 +2,7 @@
 <p align="center">
 <img src='georoute.png' width='250'>
 </p>
-GeoRoot is a Java application designed to calculate the distances between coordinates using OpenStreetMap data. It utilizes a modification of the open-source routing engine, GraphHopper, to perform offline route calculations. It is designed by Steeve Doss and Byron Xu and under the development of Project Moms in Danger at UT Austin's Innovations for Peace and Development think tank.
+GeoRoot is a Java application designed to calculate the distances between coordinates using OpenStreetMap data. It utilizes the open-source routing engine, GraphHopper, to perform offline route calculations. It is designed by Steeve Doss and Byron Xu and under the development of Project Moms in Danger at UT Austin's Innovations for Peace and Development think tank.
 
 &nbsp;
 
